@@ -1,1 +1,6 @@
-import './components/title.js'
+import './components/header-title.js'
+import './components/header.js'
+import './components/header-menu.js'
+import './components/login-buttons.js'
+import './components/main-body.js'
+import './components/article-rows.js'

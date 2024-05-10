@@ -1,0 +1,28 @@
+{
+  "name": "pedidos",
+  "version": "1.0.0",
+  "description": "Web para eventos de actividades varias",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Duskatnity/pedidos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Duskatnity/pedidos/issues"
+  },
+  "homepage": "https://github.com/Duskatnity/pedidos#readme",
+  "devDependencies": {
+    "standard": "^17.1.0",
+    "vite": "^5.2.11"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.2.1",
+    "redux": "^5.0.1"
+  }
+}
